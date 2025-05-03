@@ -1,0 +1,301 @@
+id,name,neighborhood,latitude,longitude,room_type,accommodates,bathrooms,bedrooms,beds,price,minimum_nights,number_of_reviews,review_scores_rating,amenities,availability_365,month
+1001,Listing 1001,Midtown,40.693635,-73.764786,Entire home/apt,6,2,1,2,95,5,22,87.0,"Wifi,Breakfast,Kitchen,Washer,Air Conditioning,Pet friendly",337,December
+1002,Listing 1002,Brooklyn,40.782998,-73.870402,Shared room,6,3,3,4,145,1,40,91.0,"Elevator,Dryer,Heating,Washer,Breakfast,Kitchen",97,August
+1003,Listing 1003,SoHo,40.639005,-74.003202,Entire home/apt,3,2,3,3,267,5,31,98.0,"Kitchen,Free parking,Dryer,Air Conditioning,Elevator,Washer",85,January
+1004,Listing 1004,Downtown,40.614521,-73.790147,Shared room,2,2,1,2,264,4,93,74.0,"Elevator,Washer,Beach access,Dryer,Kitchen",361,February
+1005,Listing 1005,Queens,40.750279,-73.837578,Shared room,6,1,1,4,161,5,56,90.0,"Breakfast,Wifi,Washer,Pet friendly,Elevator",255,May
+1006,Listing 1006,Upper East Side,40.605146,-73.759027,Entire home/apt,2,3,3,3,124,4,36,77.0,"Washer,Pet friendly,Free parking,Beach access",184,November
+1007,Listing 1007,Williamsburg,40.808111,-73.986298,Private room,5,2,2,2,84,1,28,73.0,"Breakfast,Beach access,Gym,Air Conditioning",82,September
+1008,Listing 1008,SoHo,40.645456,-73.994979,Private room,5,2,3,3,319,1,29,90.0,"Breakfast,Dryer,Beach access,Elevator,Kitchen,Pet friendly,Washer",130,September
+1009,Listing 1009,Chelsea,40.676061,-73.892573,Entire home/apt,6,3,2,2,192,3,129,88.0,"Heating,Elevator,Breakfast,Free parking",321,February
+1010,Listing 1010,Downtown,40.707986,-73.962631,Shared room,3,2,1,1,420,3,61,70.0,"Air Conditioning,Kitchen,Pet friendly,Pool",85,June
+1011,Listing 1011,Financial District,40.752963,-74.008152,Entire home/apt,2,3,2,2,125,4,54,98.0,"Breakfast,Pet friendly,Washer,Dryer,Gym,Elevator,Beach access",314,September
+1012,Listing 1012,Chelsea,40.673036,-73.940091,Entire home/apt,2,1,1,3,55,5,56,,"Pet friendly,Beach access,Wifi",167,October
+1013,Listing 1013,Midtown,40.714017,-73.814447,Entire home/apt,3,1,3,2,144,5,33,92.0,"Air Conditioning,Pool,Washer,Pet friendly,Gym,Beach access,Wifi",99,November
+1014,Listing 1014,SoHo,40.649918,-73.89573,Private room,4,2,2,1,287,1,15,81.0,"Breakfast,Kitchen,Washer,Beach access,Air Conditioning",324,November
+1015,Listing 1015,Chelsea,40.748104,-74.036065,Entire home/apt,4,1,2,4,111,5,25,70.0,"Wifi,Kitchen,Washer,Heating,Gym,Pool,Beach access",159,February
+1016,Listing 1016,SoHo,40.751886,-73.998843,Entire home/apt,2,2,1,4,150,5,124,73.0,"Dryer,Washer,Wifi,Air Conditioning",327,August
+1017,Listing 1017,Downtown,40.616263,-73.765334,Shared room,3,1,1,4,165,5,20,96.0,"Kitchen,Air Conditioning,Breakfast,Washer",256,September
+1018,Listing 1018,Midtown,40.841408,-73.807481,Shared room,2,3,3,1,204,5,144,85.0,"Dryer,Washer,Beach access,Elevator,Pet friendly",185,February
+1019,Listing 1019,SoHo,40.676153,-74.020698,Entire home/apt,6,3,2,4,117,5,144,72.0,"Free parking,Washer,Breakfast",185,February
+1020,Listing 1020,Queens,40.771058,-73.917954,Private room,1,1,2,3,130,3,135,,"Dryer,Beach access,Kitchen,Heating,Breakfast,Pet friendly,Wifi",333,August
+1021,Listing 1021,Queens,40.63051,-73.901447,Private room,3,3,1,3,125,3,129,84.0,"Wifi,Kitchen,Beach access,Gym,Dryer",72,November
+1022,Listing 1022,Downtown,40.608597,-73.777204,Private room,2,3,2,2,326,4,143,,"Kitchen,Pet friendly,Heating",329,August
+1023,Listing 1023,Downtown,40.664695,-73.851243,Private room,5,3,1,4,78,1,91,75.0,"Beach access,Kitchen,Elevator,Free parking",258,January
+1024,Listing 1024,Williamsburg,40.677928,-73.89398,Shared room,2,1,1,2,332,3,105,94.0,"Dryer,Heating,Kitchen,Gym",69,July
+1025,Listing 1025,Chelsea,40.736678,-73.994544,Entire home/apt,2,2,2,3,245,2,102,79.0,"Kitchen,Dryer,Elevator,Free parking,Gym",324,April
+1026,Listing 1026,Harlem,40.842396,-73.81746,Entire home/apt,1,2,1,3,60,3,80,82.0,"Free parking,Kitchen,Gym,Air Conditioning,Washer,Dryer,Wifi",273,February
+1027,Listing 1027,Downtown,40.834875,-73.781552,Shared room,5,3,3,2,174,3,80,90.0,"Pet friendly,Dryer,Free parking",208,July
+1028,Listing 1028,SoHo,40.749475,-73.773438,Private room,4,3,2,2,138,4,44,88.0,"Dryer,Gym,Free parking,Wifi,Breakfast,Beach access,Kitchen",270,July
+1029,Listing 1029,Williamsburg,40.622123,-73.991205,Shared room,6,2,2,4,186,4,43,90.0,"Dryer,Free parking,Beach access",221,November
+1030,Listing 1030,Midtown,40.611307,-73.952401,Entire home/apt,6,2,1,2,79,4,18,83.0,"Beach access,Air Conditioning,Washer,Gym,Pool,Pet friendly",174,January
+1031,Listing 1031,Queens,40.697169,-73.968595,Shared room,6,1,1,4,112,5,118,70.0,"Washer,Kitchen,Pool,Heating,Beach access,Elevator,Gym",276,March
+1032,Listing 1032,Williamsburg,40.807184,-73.942974,Shared room,5,2,3,4,292,4,115,77.0,"Beach access,Dryer,Free parking,Pool",172,March
+1033,Listing 1033,Upper East Side,40.670234,-73.887191,Private room,1,3,2,2,154,5,20,73.0,"Washer,Gym,Heating,Breakfast",82,June
+1034,Listing 1034,SoHo,40.635231,-73.809341,Private room,3,3,2,4,69,4,149,99.0,"Breakfast,Air Conditioning,Gym",294,April
+1035,Listing 1035,Downtown,40.618638,-73.753934,Private room,3,2,2,2,166,4,7,81.0,"Beach access,Breakfast,Gym,Heating,Pool",115,April
+1036,Listing 1036,Williamsburg,40.793061,-73.990385,Shared room,1,2,3,1,84,4,46,70.0,"Gym,Elevator,Washer,Pool,Pet friendly",222,November
+1037,Listing 1037,SoHo,40.601381,-73.805362,Private room,4,2,1,4,65,3,57,89.0,"Breakfast,Beach access,Wifi",65,December
+1038,Listing 1038,Brooklyn,40.776714,-73.831298,Entire home/apt,1,3,1,2,114,5,55,83.0,"Breakfast,Elevator,Heating,Air Conditioning,Kitchen",133,August
+1039,Listing 1039,Upper East Side,40.792818,-74.027787,Entire home/apt,5,1,2,4,172,5,62,72.0,"Beach access,Air Conditioning,Kitchen,Pet friendly,Wifi",227,December
+1040,Listing 1040,Financial District,40.689616,-74.015239,Private room,6,2,1,3,76,1,110,99.0,"Beach access,Pool,Heating,Gym,Breakfast",317,July
+1041,Listing 1041,Upper East Side,40.815776,-73.863011,Shared room,5,2,2,4,318,3,62,95.0,"Dryer,Pool,Washer",287,December
+1042,Listing 1042,Williamsburg,40.682725,-74.030932,Shared room,6,2,2,1,220,2,90,94.0,"Elevator,Dryer,Air Conditioning,Pet friendly,Free parking",55,June
+1043,Listing 1043,Financial District,40.677746,-73.952445,Entire home/apt,1,1,3,4,184,4,125,83.0,"Kitchen,Dryer,Washer",257,September
+1044,Listing 1044,Brooklyn,40.782402,-73.858733,Private room,6,3,2,4,185,5,84,80.0,"Dryer,Breakfast,Pet friendly,Washer,Kitchen,Air Conditioning",211,September
+1045,Listing 1045,Midtown,40.821803,-73.908336,Shared room,5,3,1,2,125,5,134,88.0,"Kitchen,Washer,Dryer,Pet friendly,Elevator",141,December
+1046,Listing 1046,Upper East Side,40.629899,-73.836027,Entire home/apt,6,3,1,3,61,2,125,72.0,"Air Conditioning,Dryer,Pool",295,January
+1047,Listing 1047,Chelsea,40.790196,-73.881617,Private room,2,1,2,4,77,1,147,89.0,"Heating,Breakfast,Air Conditioning",205,February
+1048,Listing 1048,Midtown,40.792742,-73.901861,Entire home/apt,1,3,2,2,242,4,76,96.0,"Gym,Dryer,Air Conditioning,Beach access,Wifi,Kitchen,Breakfast",156,September
+1049,Listing 1049,Brooklyn,40.730683,-73.921738,Private room,6,1,1,2,86,1,104,83.0,"Pool,Dryer,Wifi,Washer,Pet friendly,Free parking,Elevator",282,September
+1050,Listing 1050,Midtown,40.606355,-74.017633,Shared room,2,2,3,2,159,2,68,95.0,"Kitchen,Wifi,Heating,Dryer",354,February
+1051,Listing 1051,Williamsburg,40.607857,-73.859077,Private room,4,1,2,3,339,5,138,84.0,"Kitchen,Air Conditioning,Wifi,Gym,Elevator,Dryer",63,July
+1052,Listing 1052,Midtown,40.678589,-73.897429,Entire home/apt,6,3,3,1,309,5,10,93.0,"Pool,Free parking,Beach access,Breakfast",192,November
+1053,Listing 1053,Queens,40.826892,-73.975212,Shared room,4,3,2,1,224,3,26,96.0,"Elevator,Gym,Pool,Dryer",255,June
+1054,Listing 1054,Financial District,40.702596,-73.823335,Entire home/apt,4,1,2,3,144,4,131,95.0,"Beach access,Free parking,Pool",261,February
+1055,Listing 1055,Downtown,40.6572,-74.026906,Entire home/apt,5,2,3,4,299,2,68,86.0,"Dryer,Pool,Pet friendly,Kitchen",64,August
+1056,Listing 1056,Williamsburg,40.672438,-74.001634,Entire home/apt,6,1,2,1,234,1,118,99.0,"Beach access,Heating,Pool",199,July
+1057,Listing 1057,Financial District,40.832424,-73.807564,Shared room,3,2,2,4,152,4,48,98.0,"Free parking,Pet friendly,Heating,Kitchen,Dryer,Gym,Beach access",309,August
+1058,Listing 1058,Upper East Side,40.758351,-73.788562,Entire home/apt,3,3,2,4,268,4,88,79.0,"Breakfast,Free parking,Gym,Pool,Elevator,Washer,Pet friendly",172,March
+1059,Listing 1059,Williamsburg,40.800918,-73.994029,Private room,2,2,1,3,338,4,98,90.0,"Pool,Wifi,Heating,Free parking",352,August
+1060,Listing 1060,Harlem,40.82314,-73.888197,Entire home/apt,4,1,3,4,59,2,19,84.0,"Elevator,Air Conditioning,Gym,Kitchen,Breakfast",323,December
+1061,Listing 1061,SoHo,40.80186,-73.781173,Private room,6,3,2,1,196,3,58,92.0,"Gym,Kitchen,Beach access",101,February
+1062,Listing 1062,Chelsea,40.679501,-74.016984,Entire home/apt,6,2,1,1,127,3,110,73.0,"Free parking,Gym,Air Conditioning,Heating",137,January
+1063,Listing 1063,Queens,40.656984,-73.921868,Entire home/apt,5,2,3,2,164,4,65,83.0,"Beach access,Wifi,Pool,Dryer,Free parking",130,October
+1064,Listing 1064,Midtown,40.804504,-73.791781,Private room,3,3,2,4,224,3,50,81.0,"Kitchen,Washer,Gym,Air Conditioning,Elevator,Dryer",201,May
+1065,Listing 1065,Downtown,40.601738,-73.896776,Shared room,4,2,1,1,296,3,58,88.0,"Washer,Beach access,Breakfast,Air Conditioning,Dryer",120,October
+1066,Listing 1066,Midtown,40.704353,-73.983368,Shared room,6,1,2,4,56,2,23,98.0,"Elevator,Pet friendly,Gym,Heating,Washer",117,October
+1067,Listing 1067,Financial District,40.629966,-73.948715,Private room,5,3,2,2,171,3,86,94.0,"Pool,Kitchen,Heating",165,August
+1068,Listing 1068,SoHo,40.835727,-73.953039,Shared room,3,1,2,1,108,3,67,87.0,"Beach access,Elevator,Kitchen,Washer,Pool,Wifi",337,September
+1069,Listing 1069,Harlem,40.729698,-73.839094,Shared room,2,3,1,4,327,4,29,73.0,"Wifi,Dryer,Pool",109,December
+1070,Listing 1070,Midtown,40.690907,-73.758465,Entire home/apt,5,1,2,4,185,5,107,87.0,"Gym,Beach access,Kitchen,Pool",365,November
+1071,Listing 1071,SoHo,40.840612,-73.974465,Private room,1,3,2,2,242,3,25,90.0,"Free parking,Beach access,Elevator,Wifi,Gym",191,August
+1072,Listing 1072,Brooklyn,40.724312,-73.959737,Entire home/apt,4,1,3,2,260,1,12,94.0,"Washer,Heating,Air Conditioning,Breakfast,Kitchen",333,November
+1073,Listing 1073,Brooklyn,40.67121,-74.038934,Shared room,2,1,2,2,226,2,33,86.0,"Breakfast,Heating,Kitchen,Wifi,Pet friendly",57,October
+1074,Listing 1074,Harlem,40.752391,-73.899196,Entire home/apt,5,2,1,2,108,4,134,72.0,"Pool,Breakfast,Elevator",312,January
+1075,Listing 1075,Williamsburg,40.61287,-73.966406,Entire home/apt,4,3,1,1,284,4,7,70.0,"Gym,Breakfast,Beach access,Kitchen,Pool,Free parking",87,November
+1076,Listing 1076,Midtown,40.827066,-73.978131,Private room,5,1,1,2,123,5,83,81.0,"Free parking,Dryer,Pool,Breakfast,Gym,Kitchen,Air Conditioning",108,October
+1077,Listing 1077,Financial District,40.636224,-73.903164,Shared room,2,2,2,2,224,4,106,92.0,"Elevator,Gym,Breakfast",180,June
+1078,Listing 1078,Harlem,40.846413,-73.977383,Entire home/apt,6,2,1,1,240,1,95,94.0,"Free parking,Wifi,Air Conditioning,Breakfast",337,February
+1079,Listing 1079,Harlem,40.768034,-73.821514,Shared room,1,2,2,4,301,3,79,80.0,"Air Conditioning,Free parking,Washer",129,December
+1080,Listing 1080,Chelsea,40.659409,-73.831535,Entire home/apt,1,2,3,3,80,4,143,93.0,"Air Conditioning,Beach access,Pet friendly,Free parking,Wifi,Dryer,Breakfast",142,May
+1081,Listing 1081,Upper East Side,40.691946,-73.860308,Shared room,3,2,2,1,97,4,17,73.0,"Kitchen,Pet friendly,Free parking",160,March
+1082,Listing 1082,SoHo,40.758382,-73.889268,Private room,4,2,1,3,150,5,21,97.0,"Heating,Breakfast,Air Conditioning",75,December
+1083,Listing 1083,Midtown,40.622572,-73.799409,Private room,4,3,2,4,271,2,131,72.0,"Gym,Kitchen,Dryer,Air Conditioning,Pool",319,August
+1084,Listing 1084,Upper East Side,40.680195,-73.994044,Entire home/apt,2,2,3,1,48,2,35,93.0,"Dryer,Elevator,Kitchen,Wifi,Pool",270,April
+1085,Listing 1085,Queens,40.610194,-73.872732,Entire home/apt,4,3,3,2,189,3,18,81.0,"Gym,Wifi,Pool",89,September
+1086,Listing 1086,Harlem,40.769391,-74.045024,Shared room,4,3,2,4,121,3,43,94.0,"Pool,Pet friendly,Elevator,Kitchen,Gym,Air Conditioning,Breakfast",273,February
+1087,Listing 1087,Williamsburg,40.728023,-73.982051,Private room,5,1,2,3,303,2,19,85.0,"Free parking,Breakfast,Washer",228,June
+1088,Listing 1088,Harlem,40.761293,-73.99769,Shared room,6,1,1,1,81,5,39,93.0,"Heating,Beach access,Pool",287,May
+1089,Listing 1089,Williamsburg,40.772734,-73.933979,Shared room,4,3,3,3,315,4,17,84.0,"Beach access,Dryer,Pet friendly,Air Conditioning,Wifi,Elevator",309,November
+1090,Listing 1090,Midtown,40.834182,-74.008744,Private room,4,2,1,1,131,1,129,81.0,"Air Conditioning,Free parking,Wifi,Pool,Washer,Elevator",359,May
+1091,Listing 1091,Chelsea,40.685267,-74.015958,Shared room,2,1,2,1,384,1,129,89.0,"Wifi,Washer,Pool,Beach access",318,June
+1092,Listing 1092,Financial District,40.831173,-73.786798,Shared room,2,2,2,3,213,5,13,94.0,"Kitchen,Elevator,Breakfast,Free parking,Gym",195,July
+1093,Listing 1093,Upper East Side,40.664485,-73.852005,Shared room,6,3,1,3,72,3,79,99.0,"Heating,Air Conditioning,Kitchen,Dryer,Free parking,Gym",218,October
+1094,Listing 1094,Queens,40.804306,-73.88344,Shared room,6,3,3,1,254,3,4,80.0,"Heating,Washer,Elevator,Pool,Pet friendly",165,November
+1095,Listing 1095,Queens,40.732413,-73.977444,Entire home/apt,1,2,1,1,320,5,33,88.0,"Heating,Breakfast,Pet friendly,Air Conditioning,Beach access,Pool",72,June
+1096,Listing 1096,SoHo,40.623276,-73.780835,Private room,6,3,1,4,216,4,59,86.0,"Dryer,Pool,Washer,Elevator",342,May
+1097,Listing 1097,Chelsea,40.825105,-73.86007,Private room,3,2,3,4,315,5,35,96.0,"Wifi,Beach access,Pool,Elevator,Free parking",102,March
+1098,Listing 1098,Financial District,40.684757,-73.945237,Entire home/apt,3,1,1,3,153,4,23,99.0,"Pool,Elevator,Wifi,Gym",77,September
+1099,Listing 1099,SoHo,40.781489,-73.780867,Shared room,3,1,2,1,131,1,85,94.0,"Heating,Wifi,Dryer,Pool",121,April
+1100,Listing 1100,Chelsea,40.821772,-73.816037,Private room,5,1,1,1,122,5,135,82.0,"Breakfast,Dryer,Washer",204,April
+1101,Listing 1101,Midtown,40.760508,-74.024758,Entire home/apt,2,2,3,4,70,4,137,,"Air Conditioning,Washer,Heating,Dryer,Gym,Wifi,Breakfast",230,February
+1102,Listing 1102,Brooklyn,40.640407,-73.780434,Shared room,4,1,3,1,224,5,139,85.0,"Free parking,Wifi,Gym,Pool,Pet friendly,Beach access,Heating",179,June
+1103,Listing 1103,Downtown,40.751607,-74.047241,Private room,1,2,1,1,258,3,34,70.0,"Free parking,Elevator,Beach access,Heating,Pool",295,October
+1104,Listing 1104,Queens,40.625368,-73.850949,Entire home/apt,1,3,2,1,113,2,10,79.0,"Free parking,Gym,Breakfast,Pool,Dryer",68,April
+1105,Listing 1105,Brooklyn,40.601265,-74.001758,Private room,3,1,3,3,126,4,102,92.0,"Gym,Elevator,Heating,Pool,Air Conditioning,Pet friendly",315,February
+1106,Listing 1106,Upper East Side,40.737183,-73.842431,Entire home/apt,6,2,1,4,205,3,26,71.0,"Beach access,Dryer,Pet friendly,Pool,Gym",135,March
+1107,Listing 1107,Chelsea,40.76299,-73.982719,Private room,4,1,3,3,265,1,19,90.0,"Elevator,Free parking,Beach access,Heating,Wifi,Air Conditioning",361,July
+1108,Listing 1108,Chelsea,40.778045,-73.978825,Entire home/apt,2,1,1,3,210,1,39,90.0,"Elevator,Breakfast,Pool,Kitchen,Heating,Pet friendly",253,July
+1109,Listing 1109,Harlem,40.68135,-73.826053,Shared room,3,1,1,1,237,4,143,72.0,"Breakfast,Dryer,Pool,Washer,Pet friendly",301,March
+1110,Listing 1110,Brooklyn,40.762408,-73.795233,Entire home/apt,2,1,2,2,332,1,81,90.0,"Pet friendly,Kitchen,Free parking,Beach access,Dryer",203,December
+1111,Listing 1111,Queens,40.764403,-73.879507,Shared room,6,3,3,2,342,1,51,94.0,"Washer,Pool,Wifi,Elevator",333,June
+1112,Listing 1112,Williamsburg,40.623419,-73.939685,Private room,4,3,1,1,64,4,134,82.0,"Air Conditioning,Kitchen,Heating,Elevator,Pet friendly,Pool",288,May
+1113,Listing 1113,Financial District,40.666301,-73.976803,Private room,2,3,3,2,242,1,31,85.0,"Dryer,Heating,Pet friendly,Elevator",165,March
+1114,Listing 1114,Harlem,40.843253,-73.932071,Shared room,3,1,2,2,202,3,136,71.0,"Beach access,Heating,Air Conditioning,Breakfast,Pet friendly,Free parking,Elevator",359,September
+1115,Listing 1115,Harlem,40.823012,-73.860658,Shared room,1,1,1,1,366,3,53,93.0,"Gym,Air Conditioning,Beach access,Wifi,Pool,Dryer,Elevator",204,November
+1116,Listing 1116,Chelsea,40.798703,-73.899209,Entire home/apt,6,2,2,4,75,4,106,84.0,"Washer,Elevator,Air Conditioning,Heating,Pet friendly,Free parking",226,December
+1117,Listing 1117,SoHo,40.744226,-73.902245,Entire home/apt,3,3,3,1,130,3,115,76.0,"Kitchen,Wifi,Dryer,Gym",365,April
+1118,Listing 1118,SoHo,40.648811,-73.833264,Entire home/apt,2,2,3,3,97,5,119,84.0,"Pool,Wifi,Kitchen,Gym,Free parking",284,March
+1119,Listing 1119,Brooklyn,40.670193,-74.042705,Entire home/apt,5,2,1,1,168,4,73,86.0,"Kitchen,Gym,Heating",185,August
+1120,Listing 1120,Harlem,40.761368,-73.996867,Private room,3,1,2,1,183,5,73,71.0,"Free parking,Pool,Breakfast,Dryer,Kitchen,Heating",99,September
+1121,Listing 1121,SoHo,40.835115,-73.763821,Private room,3,3,2,2,100,5,10,70.0,"Heating,Pet friendly,Elevator",292,October
+1122,Listing 1122,Financial District,40.828716,-73.938952,Private room,2,3,3,2,128,4,76,87.0,"Free parking,Breakfast,Pet friendly,Pool,Dryer",293,October
+1123,Listing 1123,Downtown,40.603864,-73.771504,Private room,3,3,1,4,210,1,121,77.0,"Air Conditioning,Washer,Wifi,Breakfast,Pool,Heating,Dryer",244,May
+1124,Listing 1124,Queens,40.707046,-73.760004,Shared room,2,1,3,1,96,4,38,82.0,"Gym,Free parking,Air Conditioning,Pool",81,January
+1125,Listing 1125,Queens,40.840905,-73.794097,Shared room,2,3,2,4,238,2,117,98.0,"Elevator,Free parking,Breakfast,Dryer,Pool,Washer,Kitchen",192,July
+1126,Listing 1126,Financial District,40.673612,-73.934471,Private room,2,2,2,2,270,4,89,86.0,"Dryer,Kitchen,Air Conditioning,Free parking,Gym",252,December
+1127,Listing 1127,Harlem,40.812784,-73.954923,Entire home/apt,3,1,2,1,192,4,54,75.0,"Dryer,Free parking,Breakfast,Heating,Kitchen,Washer,Pet friendly",75,August
+1128,Listing 1128,Financial District,40.642373,-73.88296,Entire home/apt,6,1,1,1,219,1,35,,"Heating,Gym,Beach access,Pool,Air Conditioning,Washer,Pet friendly",197,June
+1129,Listing 1129,Harlem,40.834039,-73.841191,Private room,6,1,1,2,231,1,44,82.0,"Wifi,Gym,Pool,Heating",198,December
+1130,Listing 1130,Downtown,40.742515,-74.020847,Entire home/apt,3,3,3,1,368,5,134,84.0,"Free parking,Pool,Dryer,Washer",107,June
+1131,Listing 1131,Harlem,40.753752,-73.752984,Entire home/apt,6,2,3,3,210,3,75,87.0,"Heating,Air Conditioning,Beach access,Gym",268,March
+1132,Listing 1132,Financial District,40.635021,-73.894501,Private room,1,2,3,1,96,2,1,77.0,"Washer,Pool,Dryer,Elevator,Beach access,Wifi",183,March
+1133,Listing 1133,Harlem,40.819343,-73.827769,Shared room,2,1,3,1,157,5,79,91.0,"Beach access,Dryer,Elevator",364,May
+1134,Listing 1134,Brooklyn,40.774254,-73.839255,Entire home/apt,2,2,1,4,234,5,120,93.0,"Breakfast,Beach access,Washer,Pet friendly,Kitchen,Pool,Dryer",235,October
+1135,Listing 1135,Midtown,40.689873,-73.961922,Shared room,1,1,3,2,182,3,133,83.0,"Beach access,Washer,Air Conditioning",300,September
+1136,Listing 1136,Midtown,40.80234,-73.806966,Shared room,4,1,2,2,242,1,143,83.0,"Pet friendly,Wifi,Gym,Dryer,Breakfast",161,July
+1137,Listing 1137,Williamsburg,40.816768,-73.776028,Entire home/apt,1,2,2,1,204,1,120,70.0,"Gym,Heating,Pet friendly,Breakfast,Elevator",245,January
+1138,Listing 1138,Chelsea,40.727836,-73.899545,Private room,4,1,3,2,268,5,100,85.0,"Pet friendly,Washer,Wifi,Beach access",202,June
+1139,Listing 1139,Chelsea,40.799574,-73.855011,Shared room,6,3,2,4,246,3,39,77.0,"Pet friendly,Kitchen,Wifi,Gym",364,April
+1140,Listing 1140,Downtown,40.775492,-73.811262,Entire home/apt,2,1,1,1,169,1,62,92.0,"Gym,Pool,Washer",326,October
+1141,Listing 1141,Brooklyn,40.822501,-73.948601,Entire home/apt,2,3,2,2,313,5,82,76.0,"Heating,Beach access,Free parking,Washer,Gym",203,December
+1142,Listing 1142,Upper East Side,40.693896,-74.021805,Entire home/apt,5,3,3,2,248,4,12,80.0,"Breakfast,Free parking,Elevator,Gym,Air Conditioning,Heating",203,November
+1143,Listing 1143,SoHo,40.74457,-74.039217,Entire home/apt,5,2,1,2,142,4,14,86.0,"Gym,Free parking,Pet friendly,Heating,Breakfast,Washer",180,December
+1144,Listing 1144,Brooklyn,40.7164,-73.887207,Private room,6,1,2,3,76,2,13,77.0,"Beach access,Air Conditioning,Pet friendly,Wifi,Kitchen,Washer",350,September
+1145,Listing 1145,Financial District,40.671635,-73.87275,Entire home/apt,4,1,2,3,277,2,30,92.0,"Washer,Pet friendly,Air Conditioning,Breakfast,Gym,Beach access",332,January
+1146,Listing 1146,Harlem,40.607625,-74.038796,Private room,4,2,3,3,124,4,119,72.0,"Breakfast,Elevator,Washer,Pet friendly,Air Conditioning,Gym",73,May
+1147,Listing 1147,Williamsburg,40.80565,-73.941943,Entire home/apt,6,1,1,3,194,4,75,73.0,"Elevator,Washer,Gym,Air Conditioning",175,October
+1148,Listing 1148,Chelsea,40.631765,-73.893327,Shared room,6,3,2,3,365,4,117,74.0,"Heating,Breakfast,Free parking,Pool,Pet friendly",327,August
+1149,Listing 1149,Downtown,40.792498,-73.985254,Shared room,1,1,3,1,240,2,17,91.0,"Wifi,Washer,Free parking,Pool",241,January
+1150,Listing 1150,Downtown,40.755723,-74.024396,Shared room,6,3,3,4,262,5,141,82.0,"Wifi,Free parking,Dryer",324,August
+1151,Listing 1151,Upper East Side,40.61292,-73.890594,Entire home/apt,5,3,3,4,235,1,134,73.0,"Washer,Air Conditioning,Free parking,Dryer",231,March
+1152,Listing 1152,Upper East Side,40.735159,-73.858771,Private room,1,2,2,4,213,2,76,90.0,"Beach access,Breakfast,Wifi",97,April
+1153,Listing 1153,SoHo,40.781523,-73.757244,Private room,4,3,2,1,221,1,127,96.0,"Beach access,Elevator,Air Conditioning,Kitchen,Free parking,Wifi",167,January
+1154,Listing 1154,Brooklyn,40.729075,-73.953113,Shared room,5,2,2,1,296,3,139,87.0,"Heating,Elevator,Wifi",156,February
+1155,Listing 1155,Williamsburg,40.798797,-73.96875,Entire home/apt,6,2,1,3,86,4,138,79.0,"Breakfast,Pet friendly,Heating,Kitchen,Free parking,Elevator",77,October
+1156,Listing 1156,Midtown,40.709743,-74.026463,Private room,2,1,2,4,360,3,115,84.0,"Elevator,Free parking,Gym,Beach access",145,June
+1157,Listing 1157,Williamsburg,40.606338,-73.761205,Shared room,4,1,3,3,264,1,68,73.0,"Pet friendly,Beach access,Heating,Gym,Elevator,Free parking",104,April
+1158,Listing 1158,Midtown,40.808995,-73.841208,Entire home/apt,3,2,2,3,69,4,114,86.0,"Free parking,Gym,Kitchen,Wifi,Beach access,Elevator,Dryer",97,March
+1159,Listing 1159,Williamsburg,40.702238,-73.998012,Shared room,3,2,1,3,222,5,62,87.0,"Heating,Beach access,Gym,Breakfast,Air Conditioning,Dryer,Free parking",187,July
+1160,Listing 1160,Chelsea,40.639109,-73.974927,Entire home/apt,1,1,2,3,156,1,92,77.0,"Pet friendly,Beach access,Pool,Air Conditioning",365,May
+1161,Listing 1161,Brooklyn,40.737307,-73.835621,Private room,1,1,2,1,379,5,97,94.0,"Pool,Elevator,Gym,Air Conditioning,Heating",203,July
+1162,Listing 1162,Harlem,40.765049,-73.96602,Shared room,6,1,2,3,141,3,125,99.0,"Breakfast,Washer,Elevator,Gym,Dryer,Air Conditioning,Heating",108,July
+1163,Listing 1163,Williamsburg,40.838716,-73.828631,Entire home/apt,5,3,1,1,349,2,112,94.0,"Pet friendly,Kitchen,Gym,Pool,Heating",205,December
+1164,Listing 1164,Brooklyn,40.738589,-73.866484,Private room,6,1,3,4,307,5,122,87.0,"Free parking,Breakfast,Gym,Pet friendly,Wifi,Elevator",324,July
+1165,Listing 1165,Williamsburg,40.7049,-73.975681,Shared room,1,1,1,3,112,5,102,99.0,"Breakfast,Gym,Kitchen,Wifi,Beach access",182,November
+1166,Listing 1166,Brooklyn,40.688993,-73.822646,Shared room,6,3,3,2,216,5,128,73.0,"Wifi,Pool,Kitchen,Dryer,Gym",93,June
+1167,Listing 1167,Midtown,40.603598,-74.015178,Shared room,2,2,2,3,166,3,121,72.0,"Pet friendly,Breakfast,Pool,Elevator,Kitchen,Dryer",72,April
+1168,Listing 1168,Midtown,40.611501,-74.037781,Entire home/apt,3,3,1,2,330,2,141,74.0,"Free parking,Gym,Pool,Washer,Pet friendly",144,December
+1169,Listing 1169,Queens,40.813865,-73.838903,Shared room,6,2,2,1,256,4,109,81.0,"Pet friendly,Washer,Breakfast",192,October
+1170,Listing 1170,Midtown,40.718543,-74.02065,Shared room,1,3,1,3,131,3,125,85.0,"Air Conditioning,Gym,Breakfast,Pet friendly,Kitchen",228,April
+1171,Listing 1171,Harlem,40.722904,-73.907958,Private room,5,1,3,3,290,2,80,72.0,"Dryer,Kitchen,Heating,Elevator",122,October
+1172,Listing 1172,Financial District,40.6433,-73.919845,Private room,4,3,1,4,157,5,44,86.0,"Pool,Dryer,Heating,Beach access",211,March
+1173,Listing 1173,Chelsea,40.699626,-73.865245,Shared room,1,2,1,4,89,5,129,89.0,"Gym,Beach access,Pool,Breakfast,Pet friendly,Free parking",135,April
+1174,Listing 1174,Midtown,40.758773,-74.036409,Shared room,1,1,2,1,120,2,117,87.0,"Free parking,Breakfast,Kitchen,Air Conditioning,Beach access,Dryer",328,April
+1175,Listing 1175,Harlem,40.693653,-73.862242,Shared room,1,3,2,2,165,2,76,96.0,"Pool,Dryer,Elevator",94,February
+1176,Listing 1176,Chelsea,40.725784,-73.793053,Entire home/apt,2,1,3,3,329,4,42,88.0,"Breakfast,Washer,Pet friendly,Wifi",341,December
+1177,Listing 1177,Harlem,40.764673,-74.00112,Shared room,3,3,3,2,152,5,68,99.0,"Beach access,Kitchen,Heating,Gym,Wifi,Dryer,Air Conditioning",114,December
+1178,Listing 1178,Queens,40.617642,-73.857274,Entire home/apt,2,3,2,2,287,2,147,89.0,"Beach access,Gym,Pet friendly,Pool,Kitchen",97,November
+1179,Listing 1179,SoHo,40.606628,-73.874267,Shared room,6,2,3,3,215,1,23,92.0,"Beach access,Breakfast,Elevator,Kitchen,Free parking,Gym",161,August
+1180,Listing 1180,SoHo,40.835058,-73.877358,Entire home/apt,4,2,2,3,138,5,124,94.0,"Beach access,Wifi,Pet friendly,Kitchen,Pool",58,September
+1181,Listing 1181,Midtown,40.697042,-73.857014,Entire home/apt,4,2,1,4,129,3,40,96.0,"Kitchen,Beach access,Elevator,Dryer,Breakfast",240,December
+1182,Listing 1182,Queens,40.714563,-73.886315,Entire home/apt,4,3,2,2,177,1,0,75.0,"Kitchen,Heating,Air Conditioning,Washer,Free parking,Pool",54,November
+1183,Listing 1183,Downtown,40.835366,-73.934169,Shared room,3,1,2,2,162,1,26,72.0,"Elevator,Dryer,Heating,Gym,Beach access",123,February
+1184,Listing 1184,Midtown,40.840298,-73.778395,Shared room,5,1,3,2,229,2,105,88.0,"Washer,Kitchen,Pet friendly,Heating,Beach access,Gym",229,June
+1185,Listing 1185,SoHo,40.648948,-74.029192,Private room,2,1,2,1,115,5,72,93.0,"Beach access,Dryer,Washer",315,September
+1186,Listing 1186,Williamsburg,40.625195,-74.044533,Shared room,2,3,2,3,227,2,126,81.0,"Washer,Pool,Beach access",354,January
+1187,Listing 1187,Midtown,40.623611,-73.845098,Shared room,1,2,2,2,146,5,44,93.0,"Breakfast,Kitchen,Wifi,Air Conditioning,Pet friendly,Beach access",184,October
+1188,Listing 1188,Brooklyn,40.617797,-73.954307,Entire home/apt,1,2,3,3,252,4,108,91.0,"Kitchen,Beach access,Free parking,Pet friendly,Heating,Dryer",92,December
+1189,Listing 1189,Upper East Side,40.811219,-74.043018,Entire home/apt,5,1,1,3,154,1,79,91.0,"Pet friendly,Washer,Wifi,Breakfast,Kitchen,Gym",109,October
+1190,Listing 1190,Chelsea,40.803617,-73.965444,Shared room,5,1,2,2,83,1,41,84.0,"Free parking,Breakfast,Dryer,Heating,Elevator",114,January
+1191,Listing 1191,Upper East Side,40.629541,-73.840979,Shared room,1,1,2,4,108,5,19,84.0,"Free parking,Elevator,Wifi,Pool,Heating,Pet friendly",130,September
+1192,Listing 1192,Upper East Side,40.757236,-73.786758,Entire home/apt,5,3,3,1,129,1,3,76.0,"Pool,Elevator,Gym",126,December
+1193,Listing 1193,Queens,40.783768,-73.808956,Entire home/apt,5,3,3,4,136,3,69,95.0,"Air Conditioning,Elevator,Kitchen",307,June
+1194,Listing 1194,Downtown,40.670509,-73.996768,Entire home/apt,2,3,1,4,97,3,83,71.0,"Pool,Wifi,Elevator,Washer,Dryer,Free parking,Beach access",174,August
+1195,Listing 1195,Chelsea,40.787654,-73.80795,Private room,5,2,1,2,95,1,59,86.0,"Beach access,Pet friendly,Wifi,Elevator,Breakfast",242,January
+1196,Listing 1196,Upper East Side,40.847626,-73.926215,Entire home/apt,2,3,1,4,191,2,71,71.0,"Washer,Free parking,Gym",240,January
+1197,Listing 1197,Chelsea,40.693005,-73.817076,Shared room,1,3,1,2,260,5,15,82.0,"Washer,Dryer,Pet friendly,Elevator",251,July
+1198,Listing 1198,Harlem,40.685201,-73.770773,Private room,4,2,1,1,269,5,27,73.0,"Heating,Pool,Pet friendly",210,April
+1199,Listing 1199,SoHo,40.814603,-73.921302,Entire home/apt,5,2,1,4,163,1,23,74.0,"Pet friendly,Breakfast,Air Conditioning,Wifi,Washer",217,August
+1200,Listing 1200,Queens,40.787718,-73.823637,Entire home/apt,6,1,2,4,187,3,44,,"Pool,Free parking,Pet friendly,Washer,Kitchen,Breakfast",102,January
+1201,Listing 1201,Queens,40.625781,-73.779234,Entire home/apt,1,1,1,2,131,1,149,87.0,"Kitchen,Wifi,Breakfast,Washer,Pool",115,July
+1202,Listing 1202,Midtown,40.726313,-73.802063,Private room,1,1,2,1,91,4,127,,"Beach access,Gym,Heating,Elevator,Washer,Breakfast",190,October
+1203,Listing 1203,Upper East Side,40.680012,-73.781343,Private room,2,1,3,2,214,5,122,70.0,"Dryer,Gym,Heating",264,May
+1204,Listing 1204,Brooklyn,40.6973,-74.046749,Shared room,5,1,3,1,172,5,124,80.0,"Free parking,Elevator,Gym,Dryer,Heating,Wifi,Breakfast",355,December
+1205,Listing 1205,Brooklyn,40.826345,-74.022614,Entire home/apt,3,1,2,3,270,2,25,76.0,"Dryer,Free parking,Wifi,Washer",344,October
+1206,Listing 1206,SoHo,40.679828,-73.764981,Private room,2,1,1,3,317,5,7,91.0,"Air Conditioning,Breakfast,Heating,Pet friendly,Washer",302,December
+1207,Listing 1207,Financial District,40.837652,-73.877969,Private room,2,2,1,1,65,1,134,84.0,"Elevator,Air Conditioning,Washer",116,April
+1208,Listing 1208,Harlem,40.757959,-73.915466,Shared room,2,2,1,1,90,2,28,96.0,"Elevator,Kitchen,Breakfast,Gym,Pet friendly,Beach access,Heating",215,October
+1209,Listing 1209,Queens,40.673303,-73.951401,Entire home/apt,6,2,3,4,270,5,91,76.0,"Heating,Gym,Dryer,Beach access,Breakfast,Free parking,Elevator",50,June
+1210,Listing 1210,Williamsburg,40.76813,-73.824288,Private room,5,1,1,3,269,5,26,98.0,"Heating,Elevator,Kitchen,Washer,Pet friendly,Free parking",135,October
+1211,Listing 1211,Midtown,40.797895,-73.813115,Shared room,6,3,3,3,156,2,17,80.0,"Breakfast,Kitchen,Wifi,Beach access,Gym",274,January
+1212,Listing 1212,SoHo,40.622802,-73.901674,Entire home/apt,4,2,2,3,232,4,147,89.0,"Heating,Pool,Kitchen,Wifi",200,July
+1213,Listing 1213,Downtown,40.61439,-73.885141,Private room,3,1,1,3,116,1,140,99.0,"Elevator,Air Conditioning,Pet friendly",297,July
+1214,Listing 1214,Downtown,40.710383,-73.783689,Private room,6,1,3,4,82,2,48,82.0,"Pet friendly,Breakfast,Free parking,Dryer,Air Conditioning,Beach access,Kitchen",99,January
+1215,Listing 1215,Downtown,40.687729,-74.01488,Private room,5,3,2,2,75,1,75,95.0,"Pool,Washer,Kitchen,Wifi,Pet friendly,Heating,Elevator",199,June
+1216,Listing 1216,Midtown,40.635748,-73.821547,Private room,1,2,2,4,201,5,99,74.0,"Gym,Elevator,Heating,Pool,Wifi",184,November
+1217,Listing 1217,Chelsea,40.754555,-74.019663,Private room,3,1,2,1,108,1,88,94.0,"Gym,Air Conditioning,Washer,Free parking,Wifi,Breakfast,Pool",317,December
+1218,Listing 1218,SoHo,40.621027,-73.839709,Shared room,6,2,3,2,156,1,128,87.0,"Breakfast,Air Conditioning,Beach access,Pet friendly,Heating,Kitchen,Gym",279,May
+1219,Listing 1219,Queens,40.618191,-73.803442,Entire home/apt,2,1,1,1,173,4,51,95.0,"Air Conditioning,Dryer,Elevator,Kitchen",94,February
+1220,Listing 1220,SoHo,40.776561,-74.025595,Shared room,4,3,2,3,269,1,150,85.0,"Kitchen,Gym,Heating,Beach access,Breakfast,Free parking",338,August
+1221,Listing 1221,Midtown,40.621209,-73.754008,Private room,5,2,2,3,177,5,121,70.0,"Dryer,Gym,Heating,Air Conditioning",361,November
+1222,Listing 1222,SoHo,40.693568,-73.938807,Entire home/apt,4,2,3,2,74,3,95,,"Breakfast,Dryer,Pet friendly,Beach access,Pool",100,December
+1223,Listing 1223,Brooklyn,40.8032,-73.765825,Entire home/apt,3,3,2,3,139,1,48,83.0,"Gym,Pet friendly,Pool,Free parking",241,December
+1224,Listing 1224,Downtown,40.8465,-73.823987,Shared room,2,1,2,4,90,1,44,75.0,"Wifi,Washer,Breakfast,Pool",75,September
+1225,Listing 1225,Harlem,40.694065,-74.02495,Shared room,2,2,2,4,248,1,7,76.0,"Pool,Air Conditioning,Breakfast,Heating,Beach access",350,July
+1226,Listing 1226,Financial District,40.794287,-73.882479,Private room,3,1,2,1,119,2,146,93.0,"Washer,Beach access,Breakfast,Pet friendly",187,January
+1227,Listing 1227,SoHo,40.706056,-73.778094,Shared room,1,3,1,4,291,5,2,76.0,"Air Conditioning,Dryer,Beach access,Pet friendly,Gym",242,March
+1228,Listing 1228,Harlem,40.627799,-73.902212,Private room,3,1,2,3,237,4,149,72.0,"Free parking,Beach access,Elevator",337,September
+1229,Listing 1229,Williamsburg,40.602838,-73.909402,Shared room,3,2,3,1,167,3,83,96.0,"Dryer,Beach access,Pet friendly,Breakfast,Washer",126,February
+1230,Listing 1230,Financial District,40.614076,-74.014355,Entire home/apt,1,3,2,3,233,4,75,77.0,"Gym,Breakfast,Wifi,Air Conditioning,Washer,Elevator",163,March
+1231,Listing 1231,Financial District,40.629382,-73.855237,Shared room,4,3,2,3,284,5,46,78.0,"Pool,Heating,Dryer",336,March
+1232,Listing 1232,Queens,40.786511,-73.874989,Shared room,3,3,1,2,146,3,107,94.0,"Elevator,Dryer,Air Conditioning,Pet friendly,Pool",110,April
+1233,Listing 1233,Chelsea,40.840543,-73.937539,Entire home/apt,6,3,3,1,170,4,135,78.0,"Wifi,Heating,Pet friendly,Washer,Elevator,Gym",341,April
+1234,Listing 1234,Chelsea,40.671428,-73.78942,Entire home/apt,3,3,1,1,241,2,80,89.0,"Wifi,Pool,Dryer",157,June
+1235,Listing 1235,Queens,40.655899,-73.761033,Shared room,2,2,1,2,287,4,109,99.0,"Gym,Wifi,Pet friendly,Free parking,Washer,Elevator",57,July
+1236,Listing 1236,Harlem,40.603039,-73.759036,Shared room,2,1,3,1,241,3,79,73.0,"Gym,Free parking,Air Conditioning",206,December
+1237,Listing 1237,Queens,40.61079,-73.782657,Entire home/apt,1,2,2,4,240,3,111,97.0,"Elevator,Pool,Breakfast,Washer",134,September
+1238,Listing 1238,SoHo,40.731925,-73.752111,Entire home/apt,2,1,3,2,114,5,43,72.0,"Pet friendly,Beach access,Wifi,Gym,Dryer",323,December
+1239,Listing 1239,Williamsburg,40.618449,-73.883844,Entire home/apt,5,1,3,1,197,1,106,83.0,"Kitchen,Free parking,Dryer,Pool,Heating,Washer",54,January
+1240,Listing 1240,Upper East Side,40.842326,-73.893071,Private room,6,1,3,3,217,4,26,85.0,"Kitchen,Dryer,Breakfast,Beach access,Pool,Washer,Pet friendly",152,October
+1241,Listing 1241,Upper East Side,40.75735,-73.841275,Shared room,2,2,3,4,113,4,53,91.0,"Elevator,Washer,Wifi,Beach access,Kitchen,Free parking",343,March
+1242,Listing 1242,Chelsea,40.713635,-73.861733,Entire home/apt,1,3,1,1,289,4,75,77.0,"Wifi,Kitchen,Heating,Breakfast,Dryer,Elevator",210,May
+1243,Listing 1243,SoHo,40.746079,-73.779653,Shared room,1,1,1,1,276,2,84,80.0,"Air Conditioning,Dryer,Kitchen,Elevator,Breakfast,Heating",108,March
+1244,Listing 1244,SoHo,40.611362,-73.965711,Private room,4,2,2,4,354,2,28,73.0,"Heating,Kitchen,Gym",352,July
+1245,Listing 1245,Chelsea,40.837603,-73.782921,Shared room,6,2,1,4,344,2,123,98.0,"Kitchen,Gym,Pool,Wifi,Breakfast,Dryer",210,June
+1246,Listing 1246,Downtown,40.713914,-73.86396,Shared room,6,3,3,2,382,5,133,91.0,"Kitchen,Gym,Beach access,Washer,Pool,Elevator,Free parking",247,November
+1247,Listing 1247,Queens,40.669345,-73.993564,Shared room,5,1,1,2,260,2,19,93.0,"Elevator,Washer,Breakfast,Dryer,Wifi,Pet friendly",331,August
+1248,Listing 1248,SoHo,40.715925,-73.943994,Private room,2,1,2,4,252,4,114,79.0,"Pool,Pet friendly,Beach access",59,October
+1249,Listing 1249,Midtown,40.745914,-74.02668,Private room,4,1,3,1,276,5,77,97.0,"Free parking,Washer,Beach access,Pool,Elevator,Breakfast,Gym",77,February
+1250,Listing 1250,Brooklyn,40.843599,-73.754137,Private room,3,3,3,4,273,4,29,72.0,"Wifi,Elevator,Pet friendly,Dryer",330,November
+1251,Listing 1251,Financial District,40.77454,-73.889171,Private room,6,1,1,2,187,4,27,77.0,"Washer,Breakfast,Kitchen,Gym,Pet friendly,Pool,Air Conditioning",147,March
+1252,Listing 1252,Harlem,40.677382,-73.805861,Entire home/apt,4,1,3,1,330,5,129,73.0,"Wifi,Free parking,Breakfast,Pet friendly,Gym,Pool",310,August
+1253,Listing 1253,Queens,40.771183,-74.001215,Shared room,5,1,3,2,106,5,82,85.0,"Gym,Air Conditioning,Washer,Dryer,Breakfast,Elevator",200,July
+1254,Listing 1254,Chelsea,40.827732,-73.803239,Entire home/apt,2,2,3,3,320,3,141,89.0,"Washer,Breakfast,Air Conditioning,Dryer",226,December
+1255,Listing 1255,Queens,40.83745,-73.832284,Shared room,6,1,3,3,243,5,122,87.0,"Beach access,Pet friendly,Gym,Free parking,Dryer,Breakfast,Pool",56,February
+1256,Listing 1256,Financial District,40.753354,-73.924527,Entire home/apt,1,2,1,1,207,2,73,90.0,"Heating,Wifi,Dryer,Washer,Free parking",66,January
+1257,Listing 1257,Harlem,40.833182,-73.790181,Private room,1,3,3,2,290,2,130,94.0,"Pet friendly,Beach access,Wifi,Gym,Air Conditioning",263,November
+1258,Listing 1258,Harlem,40.611305,-74.04209,Shared room,1,1,3,3,108,4,57,98.0,"Breakfast,Air Conditioning,Free parking,Pet friendly,Washer",149,October
+1259,Listing 1259,Upper East Side,40.694116,-73.806834,Private room,2,3,1,2,309,1,96,70.0,"Dryer,Free parking,Breakfast,Heating,Air Conditioning,Beach access",52,March
+1260,Listing 1260,Harlem,40.846819,-74.004875,Private room,6,1,1,2,395,5,77,84.0,"Free parking,Elevator,Kitchen,Pet friendly,Breakfast,Washer,Beach access",316,June
+1261,Listing 1261,Midtown,40.748533,-73.935733,Shared room,2,2,3,4,92,2,84,79.0,"Dryer,Washer,Air Conditioning,Free parking,Pool",337,June
+1262,Listing 1262,Downtown,40.842479,-73.797364,Entire home/apt,6,2,2,2,343,5,62,99.0,"Beach access,Elevator,Gym",108,November
+1263,Listing 1263,SoHo,40.809582,-73.909392,Private room,5,3,2,1,301,3,131,94.0,"Pool,Breakfast,Wifi,Dryer,Washer,Elevator,Air Conditioning",92,September
+1264,Listing 1264,Midtown,40.703705,-73.967978,Entire home/apt,5,3,1,1,126,2,108,95.0,"Washer,Free parking,Gym",86,November
+1265,Listing 1265,Queens,40.614094,-73.790583,Entire home/apt,4,3,2,1,65,3,142,71.0,"Washer,Dryer,Gym,Beach access,Pool,Air Conditioning,Breakfast",211,February
+1266,Listing 1266,Downtown,40.803225,-73.750085,Private room,6,1,3,1,261,5,11,91.0,"Elevator,Free parking,Kitchen",198,December
+1267,Listing 1267,Upper East Side,40.849159,-73.88337,Shared room,1,2,2,4,167,2,136,76.0,"Pet friendly,Gym,Free parking,Dryer",123,November
+1268,Listing 1268,Upper East Side,40.792247,-73.76657,Shared room,6,3,2,1,177,1,1,87.0,"Gym,Free parking,Pet friendly,Kitchen,Dryer,Washer,Elevator",226,September
+1269,Listing 1269,Brooklyn,40.812412,-73.975796,Private room,6,3,1,2,99,3,49,72.0,"Beach access,Air Conditioning,Wifi,Free parking",286,April
+1270,Listing 1270,Financial District,40.712636,-74.011252,Entire home/apt,3,3,1,3,78,4,84,80.0,"Beach access,Breakfast,Washer,Kitchen",195,April
+1271,Listing 1271,Williamsburg,40.838513,-73.868148,Entire home/apt,2,2,2,4,138,5,39,87.0,"Elevator,Breakfast,Gym,Heating,Wifi,Pet friendly,Kitchen",163,October
+1272,Listing 1272,SoHo,40.657161,-73.84849,Private room,3,1,3,3,366,3,78,84.0,"Kitchen,Heating,Beach access,Air Conditioning,Breakfast,Dryer,Gym",121,August
+1273,Listing 1273,Financial District,40.754532,-73.942551,Entire home/apt,3,3,3,1,254,5,7,95.0,"Air Conditioning,Gym,Breakfast,Washer,Wifi,Dryer,Pool",326,February
+1274,Listing 1274,Chelsea,40.628389,-73.848528,Shared room,2,2,2,2,290,3,34,83.0,"Free parking,Kitchen,Gym,Elevator,Breakfast,Wifi,Air Conditioning",172,October
+1275,Listing 1275,Williamsburg,40.730077,-73.818304,Shared room,2,3,1,4,91,5,37,92.0,"Elevator,Wifi,Washer,Pool,Beach access,Kitchen",185,March
+1276,Listing 1276,Harlem,40.730041,-73.794346,Entire home/apt,1,3,1,3,219,1,10,89.0,"Kitchen,Pet friendly,Free parking,Dryer,Air Conditioning",346,August
+1277,Listing 1277,Financial District,40.737977,-73.881719,Shared room,2,2,3,4,147,1,132,77.0,"Washer,Free parking,Gym,Elevator,Air Conditioning,Pool",296,October
+1278,Listing 1278,Williamsburg,40.819163,-73.928955,Entire home/apt,5,1,2,2,108,3,54,73.0,"Heating,Elevator,Air Conditioning,Kitchen",167,February
+1279,Listing 1279,SoHo,40.633504,-74.041365,Private room,6,1,2,4,175,4,5,76.0,"Heating,Air Conditioning,Pet friendly",132,April
+1280,Listing 1280,Queens,40.788784,-73.863907,Shared room,5,1,3,2,60,2,132,99.0,"Air Conditioning,Breakfast,Beach access,Wifi,Dryer,Kitchen",160,March
+1281,Listing 1281,Chelsea,40.77602,-73.986111,Shared room,4,2,1,2,361,5,46,88.0,"Dryer,Heating,Beach access,Elevator,Pool,Kitchen,Free parking",243,July
+1282,Listing 1282,SoHo,40.634093,-74.045637,Entire home/apt,1,1,1,4,266,2,121,97.0,"Air Conditioning,Wifi,Free parking,Beach access,Kitchen,Breakfast,Washer",116,March
+1283,Listing 1283,Williamsburg,40.687647,-73.873025,Shared room,1,3,3,4,239,1,135,82.0,"Breakfast,Pool,Gym,Elevator",351,July
+1284,Listing 1284,Williamsburg,40.698061,-73.918758,Entire home/apt,4,1,2,4,266,1,72,88.0,"Gym,Dryer,Washer,Wifi,Air Conditioning,Kitchen,Pet friendly",53,April
+1285,Listing 1285,SoHo,40.82604,-73.945523,Shared room,2,3,2,4,132,5,64,77.0,"Gym,Air Conditioning,Elevator,Pet friendly,Dryer,Breakfast,Pool",154,February
+1286,Listing 1286,SoHo,40.728497,-73.814904,Shared room,5,2,1,3,192,3,147,80.0,"Pet friendly,Heating,Beach access,Kitchen,Washer,Pool",132,September
+1287,Listing 1287,Midtown,40.699136,-73.863374,Entire home/apt,5,2,2,1,135,1,23,95.0,"Pool,Air Conditioning,Gym,Kitchen",82,July
+1288,Listing 1288,Upper East Side,40.815591,-73.765144,Entire home/apt,3,1,3,1,347,4,133,78.0,"Wifi,Heating,Beach access,Pool,Air Conditioning,Breakfast,Kitchen",315,July
+1289,Listing 1289,Upper East Side,40.636768,-73.772024,Entire home/apt,1,3,3,2,214,3,61,89.0,"Heating,Kitchen,Dryer",254,March
+1290,Listing 1290,Harlem,40.723029,-73.972527,Shared room,4,2,3,2,190,1,23,86.0,"Pet friendly,Free parking,Air Conditioning,Elevator,Beach access",191,January
+1291,Listing 1291,Brooklyn,40.714784,-73.75599,Shared room,2,2,2,1,113,1,143,71.0,"Dryer,Elevator,Kitchen,Free parking,Breakfast,Air Conditioning,Pet friendly",276,March
+1292,Listing 1292,SoHo,40.723155,-73.951375,Shared room,4,1,2,4,329,1,123,72.0,"Kitchen,Gym,Beach access,Washer,Air Conditioning",211,August
+1293,Listing 1293,SoHo,40.75835,-73.977956,Private room,5,3,1,3,103,3,19,86.0,"Pool,Elevator,Pet friendly,Washer",343,May
+1294,Listing 1294,Upper East Side,40.618966,-74.011336,Entire home/apt,6,3,1,4,225,2,67,75.0,"Washer,Breakfast,Air Conditioning,Elevator",129,April
+1295,Listing 1295,Midtown,40.632011,-74.004429,Entire home/apt,1,3,3,4,217,5,10,96.0,"Elevator,Air Conditioning,Breakfast,Pool,Dryer,Pet friendly",143,January
+1296,Listing 1296,Financial District,40.634707,-73.857738,Private room,4,1,3,2,66,4,138,70.0,"Elevator,Gym,Beach access,Heating,Pool,Kitchen,Breakfast",315,September
+1297,Listing 1297,Chelsea,40.64547,-73.9463,Private room,6,1,1,2,135,3,66,74.0,"Dryer,Washer,Breakfast,Pool,Elevator,Free parking,Kitchen",305,October
+1298,Listing 1298,SoHo,40.824197,-73.907812,Entire home/apt,4,3,2,3,344,2,146,73.0,"Beach access,Washer,Kitchen,Dryer,Pet friendly,Gym,Pool",245,July
+1299,Listing 1299,Brooklyn,40.766889,-73.998304,Entire home/apt,6,1,2,1,128,5,136,92.0,"Breakfast,Pool,Dryer,Beach access,Free parking",340,July
+1300,Listing 1300,Downtown,40.648072,-74.037739,Private room,1,3,1,1,104,1,115,92.0,"Dryer,Elevator,Pet friendly,Free parking,Air Conditioning",181,May
